@@ -24,7 +24,7 @@ extract all correct triples.**
 
 ## Method :
 
-    There are two methods that could handle this problem including CNN method and rule prediction method. Please refer to the report. Thanks!
+There are two methods that could handle this problem including CNN method and rule prediction method. Please refer to the report. Thanks!
 
 ## Thanks to :
 
