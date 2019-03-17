@@ -1,3 +1,0 @@
-model_checkpoint_path: "/home/user/Desktop/ai_project/cnn-text-classification-tf/runs/1548323316/checkpoints/model-200"
-all_model_checkpoint_paths: "/home/user/Desktop/ai_project/cnn-text-classification-tf/runs/1548323316/checkpoints/model-100"
-all_model_checkpoint_paths: "/home/user/Desktop/ai_project/cnn-text-classification-tf/runs/1548323316/checkpoints/model-200"
